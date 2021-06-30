@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Zenn to VSCode
-// @description  Add 'open with vscode' button to zenn's edit page
-// @version      0.2
+// @description  Add 'Open with vscode' button to zenn's edit page
+// @version      0.3.0
 // @author       kawaz
 // @namespace    https://github.com/kawaz/userscript-zenn
 // @supportURL   https://github.com/kawaz/userscript-zenn/issues
-// @updateURL    https://raw.githubusercontent.com/kawaz/userscript-zenn/master/zenn.user.js
-// @downloadURL  https://raw.githubusercontent.com/kawaz/userscript-zenn/master/zenn.user.js
+// @updateURL    https://github.com/kawaz/userscript-zenn/raw/master/zenn.user.js
+// @downloadURL  https://github.com/kawaz/userscript-zenn/raw/master/zenn.user.js
 // @icon         https://www.google.com/s2/favicons?domain=zenn.dev
 // @grant        GM_getValue
 // @grant        GM_setValue
